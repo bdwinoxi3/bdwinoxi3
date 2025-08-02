@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm bdwinoxi3
 
-<!--
-**bdwinoxi3/bdwinoxi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full-stack Web & App Developer  
+🎯 Passionate about AI & modern tech  
+🚀 Founder of **AllSiteoffice_bdAi**  
+🧠 Building smart digital solutions & always learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Technologies:
+- HTML, CSS, JavaScript, React, Node.js
+- Python, Django, Firebase
+- Mobile App Development (Android, Flutter)
+- AI Tools Integration & Automation
+
+---
+
+### 🌍 Current Focus:
+- 🚀 Building real-world projects for AllSiteoffice_bdAi
+- 🤖 Creating AI-powered solutions
+- 🌐 Hosting web apps & learning cloud deployment
+
+---
+
+### 📬 Connect with Me:
+- 📧 Email: bdwin365xxai3@gmail.com
+- 🌐 Website: (আপনার ওয়েবসাইট লিংক দিন এখানে)
+- 💼 Project inquiries welcome!
+
+---
+
+_“Dream. Develop. Deliver.”_
